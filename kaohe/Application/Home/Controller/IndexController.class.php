@@ -23,4 +23,4 @@ class IndexController extends Controller {
     	var_dump('获取数据中:)....');
     	 $Debug = new DebugController('2015210001',100);
     }
-}
+}q
